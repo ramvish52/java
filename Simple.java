@@ -1,6 +1,5 @@
-class simple{
-public static void main(string args[]){
-
-System.out.printin("Welcome to Ram Vishwakarma indore");
-}
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
 }
